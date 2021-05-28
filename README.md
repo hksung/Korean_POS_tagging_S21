@@ -5,4 +5,4 @@ I used the data("Korean-kaist-train.conllu.text") from https://universaldependen
 ## Citation
 Every code in this practice is copied and modified from the following repository.
 
-Kyle, K., Corpus-Linguistics-Working-Group (2021), GitHub repository: https://github.com/kristopherkyle/Corpus-Linguistics-Working-Group
+Kyle, K., Corpus-Linguistics-Working-Group(2021), GitHub repository: https://github.com/kristopherkyle/Corpus-Linguistics-Working-Group
